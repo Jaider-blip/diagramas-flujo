@@ -1,0 +1,11 @@
+== Ej. 30: encuesta de televisión ==
+¿Tiene televisión? (1=sí, 0=no): ¿Es en color? (1=sí, 0=no): ¿Hay más encuestados? (1=sí, 0=no): ¿Tiene televisión? (1=sí, 0=no): ¿Es en color? (1=sí, 0=no): ¿Hay más encuestados? (1=sí, 0=no): ¿Tiene televisión? (1=sí, 0=no): ¿Piensa comprarla? (1=sí, 0=no): ¿Hay más encuestados? (1=sí, 0=no): ¿Tiene televisión? (1=sí, 0=no): ¿Piensa comprarla? (1=sí, 0=no): ¿Hay más encuestados? (1=sí, 0=no): ---- Resultados ----
+Total encuestados: 4
+Tienen TV: 2 | No tienen TV: 2
+En color: 1 | Blanco y negro: 1
+Piensan comprarla: 0 | No piensan comprarla: 2
+Tanto por ciento que tienen TV (sobre el total)       50.00 %
+Tanto por ciento que la tienen en color (de los que tienen)  50.00 %
+Tanto por ciento que la tienen en B/N (de los que tienen)  50.00 %
+Tanto por ciento que piensan comprarla (de los que no tienen)   0.00 %
+Tanto por ciento que no piensan comprarla (de los que no tienen) 100.00 %

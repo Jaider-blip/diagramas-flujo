@@ -1,0 +1,7 @@
+== Ej. 22: salario semanal de operarios ==
+Pago por hora D: Número de operarios (el libro usa 100) [1..100000]: -- Operario 1 de 3
+Nombre del operario: Horas trabajadas H: Nombre: Ana | Salario: 38000.00
+-- Operario 2 de 3
+Nombre del operario: Horas trabajadas H: Nombre: Luis | Salario: 40000.00
+-- Operario 3 de 3
+Nombre del operario: Horas trabajadas H: Nombre: Maria | Salario: 47500.00

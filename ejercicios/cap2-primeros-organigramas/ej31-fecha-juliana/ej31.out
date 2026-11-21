@@ -1,0 +1,6 @@
+== Ej. 31: fecha juliana (año no bisiesto) ==
+Fecha juliana F [1..365]: Es el 1 de ENERO
+¿Hay más fechas? (1=sí, 0=no): Fecha juliana F [1..365]: Es el 28 de FEBRERO
+¿Hay más fechas? (1=sí, 0=no): Fecha juliana F [1..365]: Es el 1 de MARZO
+¿Hay más fechas? (1=sí, 0=no): Fecha juliana F [1..365]: Es el 31 de DICIEMBRE
+¿Hay más fechas? (1=sí, 0=no): 
