@@ -1,0 +1,4 @@
+== Ej. 91: votantes con edad suficiente ==
+Número de votantes (el libro usa 1000) [1..1000]: Dame la fecha de votación (AAAAMMDD): Dame la fecha de nacimiento 1 de 4 (AAAAMMDD): Dame la fecha de nacimiento 2 de 4 (AAAAMMDD): Dame la fecha de nacimiento 3 de 4 (AAAAMMDD):   No puede haber nacido después de la votación.
+Dame la fecha de nacimiento 3 de 4 (AAAAMMDD): Dame la fecha de nacimiento 4 de 4 (AAAAMMDD): Pueden votar: 2 (50.00 %)
+No pueden votar: 2 (50.00 %)

@@ -1,0 +1,2 @@
+== Ej. 89: ordenar una tabla de mayor a menor ==
+Número de elementos de la tabla (el libro usa 100) [1..1000]: A(1): A(2): A(3): A(4): A(5): A(6): La tabla ordenada es: [100, 42, 15, 7, 7, -3]

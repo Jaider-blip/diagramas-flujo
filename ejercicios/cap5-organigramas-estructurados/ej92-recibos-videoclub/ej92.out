@@ -1,0 +1,8 @@
+== Ej. 92: recibos de un videoclub ==
+Número de socios N [1..10000]: -- Socio 1 de 3
+Nombre: Dirección: Teléfono: Películas llevadas en el mes [0..100000]: Cuota mínima: RECIBO de Ana Torres: cuota 500.00 + películas 1200.00 = 1700.00 ptas
+-- Socio 2 de 3
+Nombre: Dirección: Teléfono: Películas llevadas en el mes [0..100000]: Cuota mínima: RECIBO de Luis Pérez: cuota 500.00 + películas 3125.00 = 3625.00 ptas
+-- Socio 3 de 3
+Nombre: Dirección: Teléfono: Películas llevadas en el mes [0..100000]: Cuota mínima: RECIBO de María Gómez: cuota 800.00 + películas 4750.00 = 5550.00 ptas
+Socios que se llevan más de 50 películas: 1

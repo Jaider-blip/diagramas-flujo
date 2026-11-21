@@ -1,0 +1,5 @@
+== Ej. 90: decimal a otra base ==
+Número decimal D [0..9223372036854775807]: Base B [2..16]: 255 en base 16 es FF
+¿Hay más números? (1=sí, 0=no): Número decimal D [0..9223372036854775807]: Base B [2..16]: 10 en base 2 es 1010
+¿Hay más números? (1=sí, 0=no): Número decimal D [0..9223372036854775807]: Base B [2..16]: 0 en base 8 es 0
+¿Hay más números? (1=sí, 0=no): 

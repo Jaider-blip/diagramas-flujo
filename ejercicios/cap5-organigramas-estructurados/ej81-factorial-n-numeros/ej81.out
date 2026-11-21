@@ -1,0 +1,4 @@
+== Ej. 81: factorial de N números ==
+Dame un valor para N (cuántos números) [1..100000]: Dame el nº a investigar (1 de 3) [0..20]: El factorial de 5 es 120
+Dame el nº a investigar (2 de 3) [0..20]: El factorial de 0 es 1
+Dame el nº a investigar (3 de 3) [0..20]: El factorial de 10 es 3628800

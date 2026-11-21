@@ -1,0 +1,8 @@
+== Ej. 83: encuesta de becas en el instituto ==
+¿Tiene beca? (1=sí, 0=no): Curso [1..3]: ¿Hay más alumnos? (1=sí, 0=no): ¿Tiene beca? (1=sí, 0=no): Curso [1..3]: ¿Hay más alumnos? (1=sí, 0=no): ¿Tiene beca? (1=sí, 0=no): ¿Es de Informática? (1=sí, 0=no): ¿Hay más alumnos? (1=sí, 0=no): ¿Tiene beca? (1=sí, 0=no): ¿Es de Informática? (1=sí, 0=no): ¿Hay más alumnos? (1=sí, 0=no): ¿Tiene beca? (1=sí, 0=no): ¿Es de Informática? (1=sí, 0=no): ¿Hay más alumnos? (1=sí, 0=no): ---- Resultados ----
+Alumnos con beca: 2
+  de 1.º: 1
+  de 2.º: 1
+  de 3.º: 0
+Alumnos sin beca: 3
+  de Informática: 1
