@@ -1,0 +1,18 @@
+== Ej. 65: factura telefónica ==
+Dame el nº de cliente NC: Dame la lectura actual LA [0..2147483647]: ========== FACTURA ==========
+Cliente: 2 - Luis Pérez
+Dirección: Cl 8 # 3-45 | Zona: 2
+Lectura anterior: 3400 | Lectura actual: 3500
+Pasos consumidos: 100 x 3 ptas = 300 ptas
+Alquiler zona 2: 1200 ptas
+TOTAL A PAGAR: 1500 ptas
+¿Hay más clientes? (1=sí, 0=no): Dame el nº de cliente NC: Dame la lectura actual LA [0..2147483647]: Error: no existe ese cliente.
+¿Hay más clientes? (1=sí, 0=no): Dame el nº de cliente NC: Dame la lectura actual LA [0..2147483647]: Error: la lectura actual (1000) es menor que la anterior (1200).
+¿Hay más clientes? (1=sí, 0=no): Dame el nº de cliente NC: Dame la lectura actual LA [0..2147483647]: ========== FACTURA ==========
+Cliente: 3 - María Gómez
+Dirección: Av 6N # 20-10 | Zona: 3
+Lectura anterior: 800 | Lectura actual: 800
+Pasos consumidos: 0 x 3 ptas = 0 ptas
+Alquiler zona 3: 1500 ptas
+TOTAL A PAGAR: 1500 ptas
+¿Hay más clientes? (1=sí, 0=no): 
