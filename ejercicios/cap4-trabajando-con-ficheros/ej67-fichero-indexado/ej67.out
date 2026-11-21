@@ -1,0 +1,10 @@
+== Ej. 67: crear fichero indexado de empleados ==
+Fichero abierto con 0 registros previos.
+Dame el campo clave (nº de empleado) [1..999999]: Nombre del empleado: Fecha de nacimiento:
+  Día [1..31]:   Mes [1..12]:   Año [1..9999]: Sexo (H=hombre, M=mujer):   Registro grabado.
+¿Hay más registros? (1=sí, 0=no): Dame el campo clave (nº de empleado) [1..999999]:   Error: la clave 10 ya existe; no se graba el registro.
+¿Hay más registros? (1=sí, 0=no): Dame el campo clave (nº de empleado) [1..999999]: Nombre del empleado: Fecha de nacimiento:
+  Día [1..31]:   Mes [1..12]:   Año [1..9999]: Sexo (H=hombre, M=mujer):   Registro grabado.
+¿Hay más registros? (1=sí, 0=no): Dame el campo clave (nº de empleado) [1..999999]: Nombre del empleado: Fecha de nacimiento:
+  Día [1..31]:   Mes [1..12]:   Año [1..9999]: Sexo (H=hombre, M=mujer):   Registro grabado.
+¿Hay más registros? (1=sí, 0=no): Fichero cerrado. Total de registros: 3

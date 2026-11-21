@@ -1,0 +1,6 @@
+== Ej. 71: matrículas por curso ==
+(No existía datos/matriculas.csv: se creó un fichero de demostración con 7 matrículas.)
+Alumnos matriculados en 1.º: 4
+Alumnos matriculados en 2.º: 2
+Alumnos matriculados en 3.º: 1
+Alumnos de 1.º que pagan más de 1.000 ptas: 2

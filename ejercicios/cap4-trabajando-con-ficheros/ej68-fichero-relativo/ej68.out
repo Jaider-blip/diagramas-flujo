@@ -1,0 +1,5 @@
+== Ej. 68: crear fichero relativo de 200 registros ==
+Fichero creado: datos/articulos.rel con 200 registros, 7600 bytes.
+Registro 1: clave=0, nombre en blanco=true, cantidad=0
+Registro 100: clave=0, nombre en blanco=true, cantidad=0
+Registro 200: clave=0, nombre en blanco=true, cantidad=0
