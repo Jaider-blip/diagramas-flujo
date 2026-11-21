@@ -1,0 +1,6 @@
+out/
+datos/*.csv
+datos/*.rel
+*.class
+.idea/
+.vscode/
