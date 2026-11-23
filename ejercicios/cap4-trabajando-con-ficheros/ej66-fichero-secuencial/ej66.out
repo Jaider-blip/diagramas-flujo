@@ -1,0 +1,7 @@
+== Ej. 66: crear fichero secuencial ==
+Número de registros N (el libro usa 1000) [1..1000]: -- Registro 1 de 3
+Nombre: Teléfono: -- Registro 2 de 3
+Nombre: Teléfono: -- Registro 3 de 3
+Nombre: Teléfono: Fichero cerrado: 3 registros en datos/secuencial.txt
+Primer registro: 1;Ana Torres;3001111
+Último registro: 3;María Gómez;3003333

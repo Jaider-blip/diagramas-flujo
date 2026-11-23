@@ -1,7 +1,0 @@
-== Ej. 50: búsqueda binaria ==
-Número de elementos de la lista [1..10000]: Elemento 1 (orden ascendente): Elemento 2 (orden ascendente): Elemento 3 (orden ascendente): Elemento 4 (orden ascendente): Elemento 5 (orden ascendente): Elemento 6 (orden ascendente): Elemento 7 (orden ascendente): Dame el elemento a buscar: Elemento encontrado en la posición 6
-¿Buscar otro elemento? (1=sí, 0=no): Dame el elemento a buscar: Elemento encontrado en la posición 2
-¿Buscar otro elemento? (1=sí, 0=no): Dame el elemento a buscar: No existe el elemento buscado
-¿Buscar otro elemento? (1=sí, 0=no): Dame el elemento a buscar: Elemento encontrado en la posición 7
-¿Buscar otro elemento? (1=sí, 0=no): Dame el elemento a buscar: No existe el elemento buscado
-¿Buscar otro elemento? (1=sí, 0=no): 

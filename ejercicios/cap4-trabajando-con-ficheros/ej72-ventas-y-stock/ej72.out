@@ -1,7 +1,0 @@
-== Ej. 72: actualización de existencias y pedidos ==
-Existencias iniciales del artículo 1 [0..1000000000]: Existencias iniciales del artículo 2 [0..1000000000]: Existencias iniciales del artículo 3 [0..1000000000]: Vendedor:   Unidades vendidas del artículo 1 [0..1000000000]:   Unidades vendidas del artículo 2 [0..1000000000]:   Unidades vendidas del artículo 3 [0..1000000000]: ¿Hay más tarjetas de ventas? (1=sí, 0=no): Vendedor:   Unidades vendidas del artículo 1 [0..1000000000]:   Unidades vendidas del artículo 2 [0..1000000000]:   Unidades vendidas del artículo 3 [0..1000000000]: ¿Hay más tarjetas de ventas? (1=sí, 0=no): Artículo 1: vendido 45 | existencias finales 5
-  -> Hacer un nuevo pedido del artículo 1 (stock mínimo 10).
-Artículo 2: vendido 250 | existencias finales 150
-Artículo 3: vendido 160 | existencias finales 40
-  -> Hacer un nuevo pedido del artículo 3 (stock mínimo 47).
-SW = 101

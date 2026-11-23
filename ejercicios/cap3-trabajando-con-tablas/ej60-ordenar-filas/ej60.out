@@ -1,4 +1,0 @@
-== Ej. 60: ordenar cada fila de una matriz ==
-Número de filas N [1..100]: Número de columnas M [1..100]: A(1,1): A(1,2): A(1,3): A(1,4): A(2,1): A(2,2): A(2,3): A(2,4): Matriz con las filas ordenadas de menor a mayor:
-[1, 3, 7, 9]
-[-2, 0, 5, 5]

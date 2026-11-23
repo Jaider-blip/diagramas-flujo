@@ -1,6 +1,0 @@
-== Ej. 56: suma de filas y columnas ==
-Número de filas N [1..50]: Número de columnas M [1..50]: A(1,1): A(1,2): A(1,3): A(2,1): A(2,2): A(2,3): Suma fila 1 = 6
-Suma fila 2 = 15
-Suma columna 1 = 5
-Suma columna 2 = 7
-Suma columna 3 = 9

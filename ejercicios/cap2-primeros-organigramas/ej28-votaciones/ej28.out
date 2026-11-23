@@ -1,9 +1,0 @@
-== Ej. 28: sondeo de votaciones ==
-Fecha de la votación:
-  Día [1..31]:   Mes [1..12]:   Año [1..9999]: Fecha de nacimiento del individuo:
-  Día [1..31]:   Mes [1..12]:   Año [1..9999]: VOTA
-¿Hay más personas? (1=sí, 0=no): Fecha de nacimiento del individuo:
-  Día [1..31]:   Mes [1..12]:   Año [1..9999]:   Error: nació después de la fecha de votación; se ignora este dato.
-¿Hay más personas? (1=sí, 0=no): Fecha de nacimiento del individuo:
-  Día [1..31]:   Mes [1..12]:   Año [1..9999]: NO VOTA
-¿Hay más personas? (1=sí, 0=no): Total de personas que votan: 1

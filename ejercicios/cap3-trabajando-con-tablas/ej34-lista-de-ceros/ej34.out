@@ -1,0 +1,3 @@
+== Ej. 34: lista de N elementos rellena con ceros ==
+Dame el número de elementos N [1..10000]: Lista creada con 5 elementos, todos iguales a 0.
+Contenido: [0, 0, 0, 0, 0]

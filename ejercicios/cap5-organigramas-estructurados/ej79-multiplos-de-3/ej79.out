@@ -1,0 +1,6 @@
+== Ej. 79: los N primeros múltiplos de 3 ==
+Da un valor para N [1..100000]: El múltiplo nº 1 de 3 es 3
+El múltiplo nº 2 de 3 es 6
+El múltiplo nº 3 de 3 es 9
+El múltiplo nº 4 de 3 es 12
+El múltiplo nº 5 de 3 es 15

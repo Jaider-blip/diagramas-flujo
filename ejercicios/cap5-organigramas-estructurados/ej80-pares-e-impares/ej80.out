@@ -1,0 +1,6 @@
+== Ej. 80: pares e impares ==
+Da un número a investigar: El nº es par
+¿Hay más números? (1=sí, 0=no): Da un número a investigar: El nº es impar
+¿Hay más números? (1=sí, 0=no): Da un número a investigar: El nº es par
+¿Hay más números? (1=sí, 0=no): Da un número a investigar: El nº es impar
+¿Hay más números? (1=sí, 0=no): Total de pares: 2 | Total de impares: 2
